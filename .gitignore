@@ -91,3 +91,6 @@ dkms.conf
 # CMake
 cmake-build-*/
 
+*.swp
+*.swo
+*.cdb
