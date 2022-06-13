@@ -1,0 +1,4 @@
+include_directories(.)
+
+add_executable(file file.h copy_system.c createfile.c)
+
