@@ -1,1 +1,1 @@
-int createFile();
+int create_file();
