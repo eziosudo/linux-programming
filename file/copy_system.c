@@ -4,8 +4,8 @@
 #include "../tools.h"
 #include "file.h"
 
-int main() {
-//int copy_system() {
+//int main() {
+int copy_system() {
 //    create_file();
 
 //    char c;
