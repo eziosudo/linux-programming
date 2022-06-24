@@ -5,7 +5,8 @@
 #define A_MEGABYTE (1024 * 1024)
 #define PHY_MEM_MEGS 1024
 
-int main() {
+//int main() {
+int memory() {
     char *some_memory;
     size_t size_tp_allocate = A_MEGABYTE;
     int megs_obtained = 0;
